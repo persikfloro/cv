@@ -5,7 +5,7 @@
 * email: nvtransvaleva@yandex.ru 
 * Telegram: https://t.me/hoppas_blomma 
 # Портфолио
-## Проведение unit-тестирования, UI-тестирования:
+## Проведение unit-тестирования, UI-тестирования
 - [Тестирование сервиса покупки тура (дипломный проект)](https://github.com/persikfloro/diplomaQA)
 
 ## Автоматизированное тестирование и Selenium и Selenide
@@ -16,10 +16,10 @@
 ### Тест-план
  - [План автоматизации тестирования поиска и записи на курс "Тестировщик ПО" на сайте netology.ru](https://clck.ru/34Ctb5)
  - [План автоматизации тестирования сервиса покупки тура (дипломный проект)](https://github.com/persikfloro/diplomaQA/blob/main/docs/Plan.md)
-### Тест-кейсы:
+### Тест-кейсы
   - [Заявка на оформление дебетовой карты](https://clck.ru/34Ct9w)
   - [Тестовые сценарии к сервису покупки тура (дипломный проект)](https://docs.google.com/spreadsheets/d/1pE9Ft4Kt7njVcU70UTWFc7-ujSZEmo5Jd9MjfQn5xvA/edit#gid=1895355200)
-### Баг-репорты:
+### Баг-репорты
   - [Сервис покупки тура (дипломный проект)](https://github.com/persikfloro/diplomaQA/issues)
   - [Вход пользователя в личный кабинет](https://clck.ru/34CtJc)
   - [Заявка на оформление дебетовой карты](https://clck.ru/34Csov)
